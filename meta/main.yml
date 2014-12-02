@@ -3,7 +3,7 @@ dependencies:
   - { role: geerlingguy.apache }
   - { role: geerlingguy.mysql }
   - { role: geerlingguy.php-mysql }
-  - { role: geerlingguy.php }
+  #- { role: geerlingguy.php }
 
 galaxy_info:
   author: geerlingguy
